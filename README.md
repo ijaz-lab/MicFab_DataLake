@@ -1,5 +1,5 @@
 # Microsoft Fabric 
-## How get Data into the Lakehouse
+## How get Data into the Lakehouse in Microsoft fabric
 ####  Microsoft Fabric Overview
 
 ![11](https://github.com/ijaz-lab/MicFab_DataLake/assets/78338522/d10cf56b-e40f-41fe-bd64-3dd1f15dfbba)
